@@ -1,0 +1,47 @@
+.project-container {
+    padding: 20px;
+    max-width: 800px;
+    margin: auto;
+    background-color: #f9f9f9;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+  }
+  
+  .project-title {
+    text-align: center;
+    margin-bottom: 20px;
+    color: #333;
+  }
+  
+  .project-details p {
+    margin: 5px 0;
+    font-size: 16px;
+  }
+  
+  .tasks-title {
+    margin-top: 30px;
+    margin-bottom: 10px;
+    color: #333;
+  }
+  
+  .project-table {
+    border-collapse: collapse;
+    width: 100%;
+  }
+  
+  .project-table th,
+  .project-table td {
+    border: 1px solid black;
+    padding: 8px;
+  }
+  
+  .project-table th {
+    background-color: #f2f2f2;
+  }
+  
+  .project-table button {
+    padding: 5px 10px;
+    margin: 2px;
+    cursor: pointer;
+  }
+  
